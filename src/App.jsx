@@ -11,7 +11,8 @@ function App() {
   const [chosenCount, setChosenCount] = useState(0);
 
   function handleSetClick(number) {
-    setChosenCount(number);
+    setChosenCount((number));
+    console.log(chosenCount);
   }
 
   return (
