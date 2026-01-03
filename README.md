@@ -33,4 +33,15 @@ This project is a deep-dive playground designed to explore how React works under
 
 ---
 
-_Created as part of the "React - The Complete Guide" course study._
+> ## 🤖 AI-Assisted Learning
+>
+> This project was built with the assistance of advanced **AI tools** to ensure a deep understanding of **"Under the Hood"** concepts:
+>
+> - **`Google Antigravity with Gemini 3`**: Used as an intelligent pair programmer.
+> - **`Code Wiki`**: Used to analyze the official React source code repositories to understand internal mechanisms like **Event Bubbling**, **Synthetic Events**, and **Reconciliation**.
+
+---
+
+## 📚 Course Context
+
+This project is part of the **[React - The Complete Guide 2025 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING)** course.
