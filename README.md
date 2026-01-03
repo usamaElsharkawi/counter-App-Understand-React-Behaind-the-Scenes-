@@ -38,7 +38,7 @@ This project is a deep-dive playground designed to explore how React works under
 > This project was built with the assistance of advanced **AI tools** to ensure a deep understanding of **"Under the Hood"** concepts:
 >
 > - **`Google Antigravity with Gemini 3`**: Used as an intelligent pair programmer.
-> - **`Code Wiki`**: Used to analyze the official React source code repositories to understand internal mechanisms like **Event Bubbling**, **Synthetic Events**, and **Reconciliation**.
+> - **`Code Wiki`**: Analyzed the **React Fiber Architecture** to understand how React acts as an "operating system" for UI. Covered concepts like **Incremental Rendering** (breaking work into chunks to unblock the Main Thread), the difference between the **React Element Tree** (Blueprint) vs. **Fiber Tree** (Memory Bank), and how the **Scheduler** prioritizes updates asynchronously.
 
 ---
 
